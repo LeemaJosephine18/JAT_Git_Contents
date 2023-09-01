@@ -83,7 +83,10 @@ This command records or snapshots files permanently in the version history. All 
 
 **4. git status**
 
-Usage: git status
+Usage: 
+```
+git status
+```
 
 This command will show the modified status of an existing file and the file addition status of a new file, if any, that has to be committed.
 
