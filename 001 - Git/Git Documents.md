@@ -34,7 +34,7 @@ A repository a.k.a. repo is nothing but a collection of source code
 
 **Committed** - Which means that the changes you made to your file are safely stored in the local repository.
 
-### Commands
+## Commands ##
 
 **1. git init**
 
@@ -285,7 +285,7 @@ After choosing the file, click **commit changes**.
 
 <img src="https://github.com/LeemaJosephine18/GitContents/blob/main/git_commit_changes.PNG" >
 
-## Git Overview
+## Git Overview ##
 
 + **Version Control System (VCS):** Git is a distributed version control system designed to track changes in source code and facilitate collaboration among multiple developers.
 
